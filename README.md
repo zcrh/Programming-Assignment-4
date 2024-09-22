@@ -1,4 +1,4 @@
-# Experiment 4 - Data Wrangling and Data Visualization
+# Data Wrangling and Data Visualization
 
 ## I. Intended Learning Outcomes:
 1. To identify the codes and functions needed in cleaning and visualizing data
